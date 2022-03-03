@@ -7,5 +7,5 @@ public class Massivi {
     public static void main(String[] args) {
        
     }
-    
+    //kgrpogregorikgoeoi
 }
