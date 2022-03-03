@@ -1,4 +1,4 @@
-//gfdggjfjygilo
+//deay oop na pare
 package massivi;
 
 
