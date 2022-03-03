@@ -5,10 +5,7 @@
  */
 package massivi;
 
-/**
- *
- * @author 21603
- */
+
 public class Massivi {
 
     public static void main(String[] args) {
